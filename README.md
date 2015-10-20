@@ -13,3 +13,8 @@ Example usage of crabcheck.sh:
 ./crabcheck.sh /mnt/hadoop/cms/store/user/velicanu/HydjetMB_2076GeV_FOREST_752_v0 1899
 ```
 
+Example usage of crab3check.sh:
+```bash
+./crab3check.sh /mnt/hadoop/cms/store/user/velicanu/HIHighPt/HIHighPt_HIRun2011_HLT_HISinglePhoton20_HISinglePhoton30_FOREST_753p1_v0/151019_172910/0000/ 500
+```
+
